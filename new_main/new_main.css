@@ -294,6 +294,7 @@ footer{
     height: 100%;
     width: 15%;
 }
+
 .to_the_top a{
     padding-top: 5%;
     position:relative;
@@ -301,10 +302,16 @@ footer{
     display:flex;
     justify-content:center;
 }
+
 .to_the_top a img{
     padding-top: 2%;
     height: 10vh;
     bottom: 5vh;
+}
+
+.twitch_watch{
+    height:50px;
+    width:auto;
 }
 
 
